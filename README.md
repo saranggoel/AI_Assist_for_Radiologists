@@ -1,1 +1,1 @@
-# COVID-19_Classification_and_Severity_Prediction
+# COVID-19 Classification and Severity Prediction Using Computed Tomography (CT) of the Chest
