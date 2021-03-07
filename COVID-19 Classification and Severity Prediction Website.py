@@ -256,7 +256,7 @@ def segment(files):
 
     model = Network()
     # model = torch.nn.DataParallel(model, device_ids=[0, 1]) # uncomment it if you have multiply GPUs.
-    model.load_state_dict(torch.load('rootdir/Snapshots/save_weights/Inf-Net/Inf-Net-100.pth', map_location={'cuda:1': 'cuda:0'}))
+    model.load_state_dict(torch.load('rootdir/models/Inf-Net-100.pth', map_location={'cuda:1': 'cuda:0'}))
     model.cuda()
     model.eval()
 
