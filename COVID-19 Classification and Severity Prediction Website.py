@@ -1,4 +1,4 @@
-# This file creates the website and implements all models to create final product. Follow all steps in the read.me file
+# This file creates the website and implements all models to create final product. Follow all steps in the ReadMe.md file
 # to execute the code.
 
 from __future__ import print_function
