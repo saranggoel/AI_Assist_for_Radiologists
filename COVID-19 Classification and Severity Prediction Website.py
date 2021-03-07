@@ -560,7 +560,6 @@ if __name__ == "__main__":
     delete_files('rootdir/Images - Refined/')
     delete_files('rootdir/Images - Cross Area/')
     delete_files('rootdir/Images - CrossAreaColored/')
-    delete_files('rootdir/Images - Cross Area/')
     delete_files('rootdir/Images - JPG/')
     delete_files('rootdir/Images - Masks/')
     delete_files('rootdir/Images - Regionscolored/')
