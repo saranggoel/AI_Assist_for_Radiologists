@@ -27,11 +27,11 @@ Note: Developed and tested on Windows 10 environment (preferred OS)
 19. Make sure that you are within the project directory. If not, "cd" into it.
 20. Run "pip install -r requirements.txt" to install the libraries used in the code. 
 21. After the previous command has finished running, run "pip install git+https://github.com/JoHof/lungmask" to install the lungmask library.
-22. After the previous command has finished running, go to https://pytorch.org/ and scroll down "Install PyTorch".
+22. After the previous command has finished running, go to https://pytorch.org/ and scroll down to "Install PyTorch".
 23. Select "Stable" for the "PyTorch Build" and select your system's configurations. Run the command it provides in your PyCharm terminal.
 24. On the "Project" panel, double click on "COVID-19 Classification and Severity Prediction Website.py" to open it up. Press "CTRL + R".
 25. In the first blank, type "rootdir" and in the second blank, type in your project directory. Click the "Replace all" button.
-26. Now that everything is ready, type "streamlit run COVID-19 Classification and Severity Prediction Website.py" in the PyCharm terminal. It should provide a link.
+26. Now that everything is ready, type "streamlit run "COVID-19 Classification and Severity Prediction Website.py"" in the PyCharm terminal. It should provide a link.
 27. Click on the link and open it on your browser (has been tested on Google Chrome).
 28. Once the website loads, click on the "Browse Files" tab. Go to the "Test Images" folder with your project directory. Go into any patient's folder. Select all the images and click "Open".
 29. To view the uploaded CT scans, open the sidebar using the arrow on the top-left of the website. You can close it by clicking the "X" button as well. Additionally, enter in the patient's age, gender, and day's since suspected of COVID-19 according to the "Patient#Info.txt" file provided in the "Test Images" folder.
