@@ -1,4 +1,4 @@
-# COVID-19 Classification and Severity Prediction Using Computed Tomography (CT) of the Chest
+# AI Assist for Radiologists: A Smart, Automated Application Using Artificial Intelligence for COVID-19 Classification and Severity Prediction
 ## Pre-Requisites:
 Note: Developed and tested on Windows 10 environment (preferred OS)
 1. Python 3.7+ (https://www.python.org/downloads/release/python-370/)
