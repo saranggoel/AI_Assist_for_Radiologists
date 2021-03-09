@@ -28,7 +28,7 @@ Note: Developed and tested on Windows 10 environment (preferred OS)
 20. Run "pip install -r requirements.txt" to install the libraries used in the code. 
 21. After the previous command has finished running, run "pip install git+https://github.com/JoHof/lungmask" to install the lungmask library.
 22. After the previous command has finished running, go to https://pytorch.org/ and scroll down "Install PyTorch".
-23. Select the "Stable" for the "PyTorch Build" and select your system's configurations. Run the command it provides in your PyCharm terminal.
+23. Select "Stable" for the "PyTorch Build" and select your system's configurations. Run the command it provides in your PyCharm terminal.
 24. On the "Project" panel, double click on "COVID-19 Classification and Severity Prediction Website.py" to open it up. Press "CTRL + R".
 25. In the first blank, type "rootdir" and in the second blank, type in your project directory. Click the "Replace all" button.
 26. Now that everything is ready, type "streamlit run COVID-19 Classification and Severity Prediction Website.py" in the PyCharm terminal. It should provide a link.
